@@ -3,16 +3,16 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
+global.owner = ['62895704121737'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['62895327934887']
+global.kontak = ['62895704121737']
 
 //  INFO BOT 
-global.naown = 'KRIZYN OFC'
-global.noown = '62895327934887'
-global.namebot = 'FORYN FOUR'
-global.nobot = '6289502319715'
+global.naown = 'ELAINA OFC'
+global.noown = '62895704121737'
+global.namebot = 'ELAINA FOUR'
+global.nobot = '62895704121737'
 
 //  URL SOSMED
 global.instagram = 'https://instagram.com/itskri99'
